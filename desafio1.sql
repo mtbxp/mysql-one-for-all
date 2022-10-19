@@ -80,7 +80,7 @@ CREATE TABLE SpotifyClone.Played (
 
       INSERT INTO SpotifyClone.Artist (artist_name)
 VALUES
-    ('Beyonce'),
+    ('Beyoncé'),
     ('Queen'),
     ('Elis Regina'),
     ('Baco Exu do Blues'),
